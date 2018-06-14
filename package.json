@@ -1,0 +1,25 @@
+{
+  "name": "require-dir-lite",
+  "description": "A helper to require one directory",
+  "keywords": [
+    "require",
+    "directory",
+    "dir"
+  ],
+  "version": "1.0.0",
+  "author": "derekchuank",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "^8.0.0"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "homepage": "https://github.com/derekchuank/require-dir-lite",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekchuank/require-dir-lite.git"
+  }
+}
